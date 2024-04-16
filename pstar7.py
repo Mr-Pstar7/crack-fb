@@ -196,7 +196,7 @@ eeeeeee...eeeeee.eeeeeeeee..eeeeee..eeeeeee..eeeeeeee....
                                                          
   Made By {M2}Indonesia {P2}Coder
 {B2}╭──────────────────────╮{B2}╭───────────────╮{B2}╭────────────────────────────╮
-{B2}│ {P2}Author : Mr. Pstar7 {B2}│{B2}  │ {P2}Version : 15.6 {B2}│{B2}│ {P2}Recode By : 1010000 1110101 1110100 1110010 1100001📟{B2}    │
+{B2}│ {P2}Author : Mr. Pstar7 {B2}│{B2}  │ {P2}Version : 15.6 {B2}│{B2}│ {P2}Recode By : 5075747261📟{B2}    │
 {B2}╰──────────────────────╯{B2}╰───────────────╯{B2}╰────────────────────────────╯""",width=80,style=f"{color_panel}"))
 	
 	
@@ -312,7 +312,7 @@ class Menu:
 		self.tol = Console()
 		prints(Panel(f"{K2}        {self.negara}",width=87,padding=(0,30),title=f"{M2}• {H2}• {K2}• {H2}Negara {M2}• {H2}• {K2}•",subtitle=f"{M2}• {H2}• {K2}• {H2}Version : VERSI 10.12{M2} • {H2}• {K2}•",style=f"{color_panel}"))
 		yonkou.append(Panel(f" {K2}Nama Akun       {P2}: {H2}{nama}\n {K2}Status Pengguna {P2}: {H2}PRIBADI\n {K2}Ip Address      {P2}: {H2}{self.ip}\n {K2}Tanggal         {P2}: {H2}{tgl}",width=43,padding=(0,2),title=f"{M2}• {H2}• {K2}• {K2} Informasi Anda{M2}• {H2}• {K2}•",style=f"{color_panel}"))
-		yonkou.append(Panel(f" {K2}Recode By{P2}: {H2}1010000 1110101 1110100 1110010 1100001\n {K2}Github  {P2} : {H2}github.com/Mr-Pstar7\n{K2} Instagram {P2}: {H2}pstar7.dev\n{K2} Whatsapp {P2}: {H2}+62 857-2833-7030",width=43,padding=(0,2),title=f"{M2}• {H2}• {K2}• {K2} Informasi Author {M2}• {H2}• {K2}•",style=f"{color_panel}"))
+		yonkou.append(Panel(f" {K2}Recode By{P2}: {H2}5075747261\n {K2}Github  {P2} : {H2}github.com/Mr-Pstar7\n{K2} Instagram {P2}: {H2}pstar7.dev\n{K2} Whatsapp {P2}: {H2}+62 857-2833-7030",width=43,padding=(0,2),title=f"{M2}• {H2}• {K2}• {K2} Informasi Author {M2}• {H2}• {K2}•",style=f"{color_panel}"))
 		self.jol.print(Columns(yonkou))
 		cetak(Panel(f"{H2}index.js403, mbah Togog, apnn77",width=87,title=f"{H2}Thanks To",style=f"{color_panel}"))
 		prints(Panel(f"{H2}\t                           Daftar Menu",width=87,style=f"{color_panel}"))
